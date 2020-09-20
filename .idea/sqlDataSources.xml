@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDataSourceStorage">
+    <option name="dataSources">
+      <list>
+        <State>
+          <option name="id" value="eadfa9e7-e1be-45b6-880c-e4c29d97244c" />
+          <option name="name" value="lesson_2020-05-21" />
+          <option name="urls">
+            <array>
+              <option value="file://D:/Other/lesson_2020-05-21.sql" />
+            </array>
+          </option>
+        </State>
+      </list>
+    </option>
+  </component>
+</project>
